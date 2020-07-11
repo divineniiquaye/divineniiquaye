@@ -4,6 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SparkleKvng)](https://twitter.com/SparkleKvng)
 [![Generic badge](https://img.shields.io/badge/follow%20@legendborn_gh-500+-brightgreen.svg?style=social&logo=instagram)](https://www.instagram.com/legenndborn_gh)
 
-I'm a software engineer with more than 3 years of experience and currently working at [Biurad Lap](https://biurad.com).
+I'm a software engineer with more than 3 years of experience in programming and currently working at [Biurad Lap](https://biurad.com).
 
 I love what I do, I like to explore new technologies, constantly learn and to contribute on open-source projects, share my knowledge, passionate, and somewhat meticulous. Having a strong foundation in building web apps especially using [PHP](https://php.net).
