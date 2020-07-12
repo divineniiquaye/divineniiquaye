@@ -6,4 +6,4 @@
 
 I'm a software engineer with more than 3 years of experience in programming and currently working at [Biurad Lap](https://biurad.com).
 
-I love what I do, I like to explore new technologies, constantly learn and to contribute on open-source projects, share my knowledge, passionate, and somewhat meticulous. Having a strong foundation in building web apps using [PHP](https://php.net).
+I love what I do, I like to explore new technologies, constantly learn and help contribute on open-source projects. I also like to share my knowledge, passionate, and somewhat meticulous about programming and tech in general. I have a strong foundation in building web apps especially using [PHP](https://php.net) and [Java](https://java.com).
