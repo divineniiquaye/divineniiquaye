@@ -10,4 +10,4 @@ I'm a Software Engineer with over 3 years experience in programming web based, s
 
 💬 Ask me about anything related to programming by creating a new issue at this repo.
 
-📫 How to reach me: [Email](divineibok@gmail.com) | [Twitter](https://twitter.com/SparkleKvng) | [Instagram](https://www.instagram.com/sparkekvng) | [LinkedIn](https://www.linkedin.com/in/divinenniquaye)
+📫 How to reach me: [Email](divineibok@gmail.com) | [Twitter](https://twitter.com/SparkleKvng) | [Instagram](https://www.instagram.com/sparkekvng) | [LinkedIn](https://www.linkedin.com/in/divineniiquaye)
