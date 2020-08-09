@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to my profile, You can follow me for updates.
 
-I'm a Software Engineer with over 3 years of experience in programming web-based, software and other technologies. Since early 2017 I started to code, it has become a passion of mine. I love to explore new technologies, constantly learn, and help contribute to open-source projects. Also like to share my knowledge, passion, and somewhat meticulous about programming and tech in general. Having a strong foundation in building web apps especially using [PHP](https://php.net) and [Java](https://java.com).
+I'm a Software Engineer with over 3 years of experience in programming web-based, software, and other technologies. Since early 2017 I started to code, it has become a passion of mine. I love to explore new technologies, constantly learn, and help contribute to open-source projects. Also like to share my knowledge, passion, and somewhat meticulous about programming and tech in general. Having a strong foundation in building web apps especially using [PHP](https://php.net) and [Java](https://java.com).
 
 🔭 Currently working at [Biurad Lap](https://biurad.com/), Anyway I'm always active at GitHub.
 
