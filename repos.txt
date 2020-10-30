@@ -1,0 +1,2 @@
+git@github.com:divineniiquaye/flight-routing.git flight-routing libraries/flight-routing
+git@github.com:divineniiquaye/php-invoker.git php-invoker libraries/php-invoker
