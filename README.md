@@ -1,13 +1,15 @@
-### Hi there 👋, Welcome to my profile, You can follow me for updates.
+### Hi there 👋, Welcome to my profile.
 
-I'm a Software Engineer with over 3 years of experience in programming web-based, software, and other technologies. Since early **2017** I started to code, it has become a passion of mine. I love to explore new technologies, constantly learn, and help contribute to open-source projects. Also like to share my knowledge, passion, and somewhat meticulous about programming and tech in general. Having a strong foundation in building web apps especially using [PHP](https://php.net) and [Java](https://java.com).
+![DIVINE NIIQUAYE IBOK](https://user-images.githubusercontent.com/53147395/115957606-fb4b7780-a4f2-11eb-8077-b676a242e060.png)
 
-🔭 Currently working at [Biurad Lap](https://biurad.com/), Anyway I'm always active at GitHub.
+I'm a motivated, team-oriented, and passionate software engineer who enjoys creating and engaging with projects that enhance business productivity, education, developers’ insight, and brings about innovation. Since early **2017** I started to code, it has become a **TRUE** passion of mine. I truly believe in continued education and research, which I constantly do and help contribute to open-source projects when I can.
 
-👯 I'm working on amazing projects for the opensource community. Funding my works will be appreciated.
+### How to reach me around the web 🌎:
 
-⚡ Motivation: It does not matter how slowly you go, as long as you do not stop...
+- Teaching my knowledge in public on [tuts.divinenii.com](https://tuts.divienii.com) and [proleaner.space](https://prolearner.space) - **coming soon**
+- Chat with me via [Twitter](https://twitter.com/SparkleKvng), [Instagram](https://www.instagram.com/sparkekvng), or you can email [@divineibok@gmail.com](mailto:divineibok@gmail.com) 
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/divineniiquaye) and my personal blog [blog.divinenii.com](https://blog.divinenii.com)
 
-💬 Ask me about anything related to programming by creating a new issue at this repo.
+I'm currently working on amazing projects for the opensource community. Funding me will be much appreciated. Remember only together we can build a better future.
 
-📫 How to reach me: [Email](mailto:divineibok@gmail.com) | [Twitter](https://twitter.com/SparkleKvng) | [Instagram](https://www.instagram.com/sparkekvng) | [LinkedIn](https://www.linkedin.com/in/divineniiquaye)
+> Thanks for your time if you reach this far 😀.
