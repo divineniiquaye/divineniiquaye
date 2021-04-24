@@ -7,7 +7,7 @@ I'm a motivated, team-oriented, and passionate software engineer who enjoys crea
 ### How to reach me around the web 🌎:
 
 - Teaching my knowledge in public on [tuts.divinenii.com](https://tuts.divienii.com) and [proleaner.space](https://prolearner.space) - **coming soon**
-- Chat with me via [Twitter](https://twitter.com/SparkleKvng), [Instagram](https://www.instagram.com/sparkekvng), or you can email [@divineibok@gmail.com](mailto:divineibok@gmail.com) 
+- Chat with me via [Twitter](https://twitter.com/SparkleKvng), [Instagram](https://www.instagram.com/sparklekvng), or you can email [@divineibok@gmail.com](mailto:divineibok@gmail.com) 
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/divineniiquaye) and my personal blog [blog.divinenii.com](https://blog.divinenii.com)
 
 I'm currently working on amazing projects for the opensource community. Funding me will be much appreciated. Remember only together we can build a better future.
