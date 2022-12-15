@@ -1,15 +1,30 @@
 ### Hi there 👋, Welcome to my profile.
 
-![DIVINE NIIQUAYE IBOK](https://user-images.githubusercontent.com/53147395/115957606-fb4b7780-a4f2-11eb-8077-b676a242e060.png)
+```ts
+import { Me, Career } from '@divineniiquaye';
 
-I'm a motivated, team-oriented, and passionate software engineer who enjoys creating and engaging with projects that enhance business productivity, education, developers’ insight, and brings about innovation. Since early **2017** I started to code, it has become a **TRUE** passion of mine. I truly believe in continued education and research, which I constantly do and help contribute to open-source projects when I can.
+divine = new Me.Profile<Career.SoftwareEngineer>();
 
-### How to reach me around the web 🌎:
+console.log(divine.quick_bio());
+console.log('\n### 🧐 More About Me\n');
+console.log(divine?.github_bio() ?? "Perhaps I'm not a GitHub user");
+```
 
-- Teaching my knowledge in public on [tuts.divinenii.com](https://tuts.divienii.com) and [proleaner.space](https://prolearner.space) - **coming soon**
-- Chat with me via [Twitter](https://twitter.com/SparkleKvng), [Instagram](https://www.instagram.com/sparklekvng), or you can email [@divineibok@gmail.com](mailto:divineibok@gmail.com) 
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/divineniiquaye) and my personal blog [blog.divinenii.com](https://blog.divinenii.com)
+---
 
-I'm currently working on amazing projects for the opensource community. Funding me will be much appreciated. Remember only together we can build a better future.
+I am a motivated, team-oriented, and passionate software engineer who enjoys creating projects that tackles real world problems.
+I love coding, researching, and exploring tech stack. I truly believe in continuios education and research,
+which I constantly do and help contribute to open-source projects when I can.
 
-> Thanks for your time if you reach this far 😀.
+---
+
+### 🧐 More About Me:
+
+- 🔭   I’m currently working on [several commercial and open-source projects](https://divinenii.com/projects)
+- 🤝   I’m open to collaboration on opensource/commercial projects
+- 📫   Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/divineniiquaye) or [Twitter](https://twitter.com/SparkleKvng) or you can email at [hello@divinenii.com](mailto:hello@divinenii.com)
+- 💬   Ask me about anything tech related, and will be happy to help
+- 🌎   Checkout my personal website 👉 https://divinenii.com 👈
+- 😎   If interested lets connect to play some [Chess ♟](https://www.chess.com/member/divineibok)
+- 💁🏼   My all time favourite tech qoute is **Make it work, make it right, make it fast.** – Kent Beck
+- 🦄   Follow me if you like my work, or perhaps even [Sponsor Me](https://divinenii.com/sponsor)?
