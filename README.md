@@ -12,9 +12,9 @@ console.log(divine?.github_bio() ?? "Perhaps I'm not a GitHub user");
 
 ---
 
-I am a motivated, team-oriented, and passionate software engineer who enjoys creating projects that tackles real world problems.
-I love coding, researching, and exploring tech stack. I truly believe in continuios education and research,
-which I constantly do and help contribute to open-source projects when I can.
+I am a motivated, team-oriented, and passionate Software Engineer who enjoys creating projects that tackles real world problems.
+I love coding, researching, and exploring tech stack. I truly believe in continuous education and research which I constantly do,
+and help contribute to open-source projects when I can.
 
 ---
 
