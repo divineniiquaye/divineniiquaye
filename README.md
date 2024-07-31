@@ -25,6 +25,12 @@ and help contribute to open-source projects when I can.
 - 📫   Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/divineniiquaye) or [Twitter](https://twitter.com/SparkleKvng) or you can email at [hello@divinenii.com](mailto:hello@divinenii.com)
 - 💬   Ask me about anything tech related, and will be happy to help
 - 🌎   Checkout my personal website 👉 https://divinenii.com 👈
-- 😎   If interested lets connect to play some [Chess ♟](https://www.chess.com/member/divineibok)
+- ⭐   Do you like my open source projects? [Nominate me to Github Stars](https://stars.github.com/nominate)
 - 💁🏼   My all time favourite tech qoute is **Make it work, make it right, make it fast.** – Kent Beck
 - 🦄   Follow me if you like my work, or perhaps even [Sponsor Me](https://divinenii.com/sponsor)?
+
+### 📈 Github Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=divineniiquaye&show_icons=true&theme=transparent" width="410">
+  <img src="https://streak-stats.demolab.com?user=divineniiquaye&theme=transparent&card_height=205" width="410">
+</p>
