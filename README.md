@@ -3,7 +3,7 @@
 ```ts
 import { Me, Career } from '@divineniiquaye';
 
-divine = new Me.Profile<Career.SoftwareEngineer>();
+const divine = new Me.Profile(Career.SoftwareEngineer);
 
 console.log(divine.quick_bio());
 console.log('\n### 🧐 More About Me\n');
